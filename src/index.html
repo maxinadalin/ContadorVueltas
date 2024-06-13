@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contador de vueltas</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div class="div__card">
+      <label class="card__titulo" for="contador"> Contador de vueltas </label>
+      <input
+        type="text"
+        name="contador"
+        id="input"
+        class="card__input"
+        placeholder="0"
+        value="0"
+      />
+
+      <div class="card__btns">
+        <button class="btns__aumentar" id="aumentar">aumentar</button>
+        <button class="btns__disminuir" id="disminuir">disminuir</button>
+      </div>
+
+      <button class="card__reset" id="resetear">resetear</button>
+
+      <div class="card__marcador">
+        <label for="" class="card__titulo"> Rondas </label>
+        <div class="contenedor" id="contenedor">
+          
+        </div>
+
+        <div class="marcador__btns">
+          <button class="btns__btn" id="agregar">Agregar Ronda</button>
+          <button class="btns__btn"  id="restaurarTodo">restaurar</button>
+        </div>
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
