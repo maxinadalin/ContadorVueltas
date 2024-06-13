@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/maxinadalin/ContadorVueltas/static/css/main.61e2fa04.css",
+    "main.js": "/maxinadalin/ContadorVueltas/static/js/main.5b8134ae.js",
+    "static/media/img.png": "/maxinadalin/ContadorVueltas/static/media/img.d21333ae72ea3449bc7e.png",
+    "index.html": "/maxinadalin/ContadorVueltas/index.html",
+    "main.61e2fa04.css.map": "/maxinadalin/ContadorVueltas/static/css/main.61e2fa04.css.map",
+    "main.5b8134ae.js.map": "/maxinadalin/ContadorVueltas/static/js/main.5b8134ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e2fa04.css",
+    "static/js/main.5b8134ae.js"
+  ]
+}
